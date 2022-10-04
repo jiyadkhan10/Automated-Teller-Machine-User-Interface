@@ -1,7 +1,8 @@
+# Automated Teller Machine User Interface
 # Course 
 CS217	Object Oriented Programming <br />
 
-# Automated Teller Machine User Interface
+# Description
 Make a Software of the basic Automated Teller Machine (ATM) with the help of the concepts of Object Oriented Programming in C++ Language <br />
 
 # Designing the ATM System
